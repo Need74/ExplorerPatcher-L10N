@@ -385,6 +385,8 @@ BEGIN
     IDS_UPDATES_INSTALL         "Mettre à jour le programme et redémarrer l'Explorateur Windows"
     IDS_UPDATES_CHANGES         "Consulter les modifications des dernières versions"
     IDS_UPDATES_LEARN           "En savoir plus"
+    IDS_UPDATES_USELOCAL        "Créez des mises à jour localement avant de les installer"
+"
 
     IDS_ADV                     "Avancé"
 
